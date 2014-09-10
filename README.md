@@ -1,4 +1,3 @@
-test
-====
-
-test
+<?php
+echo "Hello world";
+?>
